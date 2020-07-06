@@ -1,3 +1,3 @@
 # dcgan_practice
 
-- DCGANのTutorialを行ったときの作業
+- DCGANのTutorialを行ったときの作業dir
