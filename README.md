@@ -1,4 +1,4 @@
-# dcgan_practice
+# DCGAN_Practice
 
 - DCGANのTutorialを行ったときの作業dir
   - Pytorch開発入門 4章DCGANによる画像生成
