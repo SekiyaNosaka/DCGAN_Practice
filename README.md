@@ -1,6 +1,6 @@
-# DCGAN_Practice
+# DCGAN tutorial
 
-- DCGANのTutorialを行ったときの作業dir
-  - Pytorch開発入門 4章DCGANによる画像生成
-  - ここではEpoch: 100で学習した後のモデルと学習したGから生成された画像をアップしておく
+- DCGANを行ったときの作業dir
+  - PyTorch開発入門 4章 DCGANによる画像生成
+  - ここでは100[Epoch]で学習した後のモデルと学習したGから生成された画像をアップしておく
 
